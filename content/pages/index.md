@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: TIM PPK N' TIM PPS PUBIAN
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Halaman ini berisi tentang profil dari BPK beserta sekretariat PPK dan PPS
+      beserta sekretariat PPS masing-masing kampung di kecamatan pubian pada
+      Pilkada serentak 2024
     styles:
       self:
         height: auto
